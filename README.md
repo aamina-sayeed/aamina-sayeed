@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamina-sayeed&label=Profile%20views&color=0e75b6&style=flat" alt="aamina-sayeed" /> </p>
 
-- 🔭 I’m currently working on **APIS with MOngoDB,Express**
+- 🔭 I’m currently working on **APIS with MongoDB,Express**
 
 - 🌱 I’m currently learning **Github,FullStack Development and Linux**
 
