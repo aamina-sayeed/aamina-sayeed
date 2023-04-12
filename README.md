@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aaminasayeed52@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tvROkmCCaRD2DQH6k6FIY8Kjn-AhtbC4pdCmvfR4_RM/edit?usp=share_link](https://docs.google.com/document/d/1tvROkmCCaRD2DQH6k6FIY8Kjn-AhtbC4pdCmvfR4_RM/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1tvROkmCCaRD2DQH6k6FIY8Kjn-AhtbC4pdCmvfR4_RM/edit?usp=sharing](https://docs.google.com/document/d/1tvROkmCCaRD2DQH6k6FIY8Kjn-AhtbC4pdCmvfR4_RM/edit?usp=sharing)
 
 - ⚡ Fun fact **I'M A JEIS-Just Existing Intelligent System**
 
