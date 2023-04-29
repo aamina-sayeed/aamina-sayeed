@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamina-sayeed&label=Profile%20views&color=0e75b6&style=flat" alt="aamina-sayeed" /> </p>
 
-- 🔭 I’m currently working on **APIS with MongoDB,Express**
+- 🔭 I’m currently working on **APIS with MongoDB,Express and React**
 
 - 🌱 I’m currently learning **Github,FullStack Development and Linux**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Backend Projects and React**
 
-- 🤝 I’m looking for help with **Express,MongoDB**
+- 🤝 I’m looking for help with **Express,MongoDB,React**
 
 - 📫 How to reach me **aaminasayeed52@gmail.com**
 
